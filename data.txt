@@ -1,0 +1,8 @@
+tp print 1 to n even natural numbers input 10 output 2 4 6 8
+to print count the 1 to n even number and odd numbers
+to print factorial of a number
+to find the factors of a given number input:6 output:1 2 3 6
+t0 print all numbers between 
+to check given number is prime or not
+
+http://sites.googole.comsrit-level1-august-2019/
